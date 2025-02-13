@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/settlemyrenursery/.github/refs/heads/main/SettleLogo.webp">
+  <h1>Settlemyre Nursery</h1>
 </div>
